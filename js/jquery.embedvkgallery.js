@@ -6,7 +6,7 @@
              * Can be [s,m,x,o,p,q,y,z,w]
              * Look into https://vk.com/dev/photo_sizes
              */
-            full_image_size: 'y',
+            full_image_size: 'o',
             width: 100,
             margin: 4,
             static: 0, /* functionality hasn't been implemented yet */
